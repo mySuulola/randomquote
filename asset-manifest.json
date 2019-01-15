@@ -1,0 +1,13 @@
+{
+  "main.css": "/randomquote/static/css/main.a45f448e.chunk.css",
+  "main.js": "/randomquote/static/js/main.def89aa9.chunk.js",
+  "main.js.map": "/randomquote/static/js/main.def89aa9.chunk.js.map",
+  "static/js/1.f715b2e0.chunk.js": "/randomquote/static/js/1.f715b2e0.chunk.js",
+  "static/js/1.f715b2e0.chunk.js.map": "/randomquote/static/js/1.f715b2e0.chunk.js.map",
+  "runtime~main.js": "/randomquote/static/js/runtime~main.539267bc.js",
+  "runtime~main.js.map": "/randomquote/static/js/runtime~main.539267bc.js.map",
+  "static/css/main.a45f448e.chunk.css.map": "/randomquote/static/css/main.a45f448e.chunk.css.map",
+  "index.html": "/randomquote/index.html",
+  "precache-manifest.ddb015e97bd3fc74ab09f057ed7f753f.js": "/randomquote/precache-manifest.ddb015e97bd3fc74ab09f057ed7f753f.js",
+  "service-worker.js": "/randomquote/service-worker.js"
+}
