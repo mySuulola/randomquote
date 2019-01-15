@@ -37,7 +37,7 @@ render() {
         <div className='lower'>        
         <button onClick={this.handleClick} id="new-quote">New Quote</button>
             
-        <a href={`https://twitter.com/intent/tweet?text=${this.state.quote}`} target='_blank' rel="noopener noreferrer"  className="btn" data-size="large" data-show-count="false"> <button id="tweet-quote">Tweet</button> </a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <a href={`https://twitter.com/intent/tweet?text=${this.state.quote}`} target='_blank' rel="noopener noreferrer" data-size="large" data-show-count="false"> <button id="tweet-quote">Tweet</button> </a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         </div>
             
       </div>
